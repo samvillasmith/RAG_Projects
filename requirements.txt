@@ -1,0 +1,9 @@
+langchain
+pandas
+numpy
+langchain-community
+langchain-core
+langchain-text-splitters
+uvicorn
+pypdf 
+pymupdf
